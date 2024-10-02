@@ -1,6 +1,6 @@
 body {
-    color:palevioletred;
-    background: white;
+    color:rgb(0, 0, 0);
+    background: rgb(180, 177, 177);
     font-family: "Playwrite CU", cursive;
     display:flex;
     Justify-content: center;
@@ -24,4 +24,5 @@ display: none;
 }
 img{
     height: 300px;
+
 }
