@@ -1,0 +1,27 @@
+body {
+    color:palevioletred;
+    background: white;
+    font-family: "Playwrite CU", cursive;
+    display:flex;
+    Justify-content: center;
+    align-items: center;
+    height: 700px;
+
+}
+
+button {
+    color: black;
+    font-family: "Playwrite CU", cursive;
+    background: rgb(240, 186, 224);
+}
+
+.passo{
+display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
+img{
+    height: 300px;
+}
